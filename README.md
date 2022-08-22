@@ -1,9 +1,9 @@
 # DiscordRaidVoiceChatBot
 
-#What is it?
+# What is it?
 Is a Discord bot that allows raid parties, in a differents voice channels, can you speak a voice master.
 
-#Usage
+# Usage
 Import the repo and use:
 ```
 npm install
